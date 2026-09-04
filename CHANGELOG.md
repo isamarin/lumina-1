@@ -1,8 +1,14 @@
 # Changelog
 
-CalVer `YY.M.BUILD`: year, month, build. August 2026 starts at `26.8.1`, then `26.8.2`.
+CalVer `YY.M.BUILD`: year, month, build. September 2026 starts at `26.9.1`, then `26.9.2`.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
+
+## [26.9.1] - 2026-09-04
+
+### Changed
+- Bump CalVer to `26.9.1`
+- Refresh JavaScript dependencies with `pnpm update` (lockfile: `acorn` 8.16.0 → 8.18.0 for optional `terser`)
 
 ## [26.8.1] - 2026-08-14
 
